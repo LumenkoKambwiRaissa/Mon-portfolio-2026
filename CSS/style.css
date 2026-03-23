@@ -7,6 +7,7 @@
     --gris-tres-clair:#F8F8F8;
     --gris-clair:#EEE;
 }
+<<<<<<< HEAD
 
 *{
     margin: 0;
@@ -126,3 +127,8 @@ a.lumenko::after{
     transform: translate(-3px);
 }
 
+=======
+h1{
+    color: var(--violet-fonce);
+}
+>>>>>>> ce73a57f58005f9d1c69babbd425ce1f0e0ab5fb
